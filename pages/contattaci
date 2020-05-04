@@ -5,14 +5,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#3a3a3a">
-  <link rel="canonical" href="https://amandano.com/"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0299/3949/9107/files/Amandano_712e1561-a125-4a1b-9793-c1013fd00a66_32x32.png?v=1588349683" type="image/png"><title>Amandano</title><!-- /snippets/social-meta-tags.liquid -->
+  <link rel="canonical" href="https://amandano.com/pages/contattaci"><link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0299/3949/9107/files/Amandano_712e1561-a125-4a1b-9793-c1013fd00a66_32x32.png?v=1588349683" type="image/png"><title>Contattaci
+&ndash; Amandano</title><!-- /snippets/social-meta-tags.liquid -->
 
 
 
 
 <meta property="og:site_name" content="Amandano">
-<meta property="og:url" content="https://amandano.com/">
-<meta property="og:title" content="Amandano">
+<meta property="og:url" content="https://amandano.com/pages/contattaci">
+<meta property="og:title" content="Contattaci">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Amandano">
 
@@ -21,7 +22,7 @@
 
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Amandano">
+<meta name="twitter:title" content="Contattaci">
 <meta name="twitter:description" content="Amandano">
 
 
@@ -119,12 +120,12 @@ Shopify.theme.style = {"id":null,"handle":null};</script>
     window.addEventListener('load', asyncLoad, false);
   }
 })();</script>
-<script id="__st">var __st={"a":29939499107,"offset":7200,"reqid":"36817620-73b6-448e-8ca4-d156780fda88","pageurl":"amandano.com\/","u":"57497a125a0e","p":"home"};</script>
+<script id="__st">var __st={"a":29939499107,"offset":7200,"reqid":"e7484f30-f515-4d97-bb54-696981258a41","pageurl":"amandano.com\/pages\/contattaci","s":"pages-50475663459","u":"648cdc2a0f30","p":"page","rtyp":"page","rid":50475663459};</script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'EUR';
-var meta = {"page":{"pageType":"home"}};
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":50475663459}};
 for (var attr in meta) {
   window.ShopifyAnalytics.meta[attr] = meta[attr];
 }</script>
@@ -362,7 +363,7 @@ for (var attr in meta) {
       
         window.ShopifyAnalytics.lib.page(
           null,
-          {"pageType":"home"}
+          {"pageType":"page","resourceType":"page","resourceId":50475663459}
         );
       
       
@@ -396,7 +397,7 @@ for (var attr in meta) {
 	<script>var loox_global_hash = '1588381485088';</script><script>var loox_widgeton_caret = {"visible":true};</script><style>.loox-reviews-default { max-width: 1200px; margin: 0 auto; }.loox-rating .loox-icon.loox-caret { color:#333; cursor: pointer; }</style>
 </head>
 
-<body class="template-index">
+<body class="template-page">
 
   <a class="in-page-link visually-hidden skip-link" href="#MainContent">Vai direttamente ai contenuti</a><div id="shopify-section-header" class="shopify-section">
   <style>
@@ -458,36 +459,6 @@ for (var attr in meta) {
 <div data-section-id="header" data-section-type="header-section" data-header-section>
   
     
-      <style>
-        .announcement-bar {
-          background-color: #e99a48;
-        }
-
-        .announcement-bar--link:hover {
-          
-
-          
-            
-            background-color: #eca861;
-          
-        }
-
-        .announcement-bar__message {
-          color: #ffffff;
-        }
-      </style>
-
-      
-        <div class="announcement-bar">
-      
-
-        <p class="announcement-bar__message">CONSEGNA GRATUITA IN TUTTO IL NEGOZIO! APPROFITTATENE ORA</p>
-
-      
-        </div>
-      
-
-    
   
 
   <header class="site-header border-bottom logo--left" role="banner">
@@ -497,7 +468,7 @@ for (var attr in meta) {
       <div class="grid__item medium-up--one-quarter logo-align--left">
         
         
-          <h1 class="h2 site-header__logo">
+          <div class="h2 site-header__logo">
         
           
 <a href="/" class="site-header__logo-image">
@@ -520,7 +491,7 @@ for (var attr in meta) {
             </a>
           
         
-          </h1>
+          </div>
         
       </div>
 
@@ -533,10 +504,10 @@ for (var attr in meta) {
 
 
     
-      <li  class="site-nav--active">
+      <li >
         <a href="/"
-          class="site-nav__link site-nav__link--main site-nav__link--active"
-           aria-current="page"
+          class="site-nav__link site-nav__link--main"
+          
         >
           <span class="site-nav__label">Home</span>
         </a>
@@ -561,10 +532,10 @@ for (var attr in meta) {
 
 
     
-      <li >
+      <li  class="site-nav--active">
         <a href="/pages/contattaci"
-          class="site-nav__link site-nav__link--main"
-          
+          class="site-nav__link site-nav__link--main site-nav__link--active"
+           aria-current="page"
         >
           <span class="site-nav__label">Contattaci</span>
         </a>
@@ -612,8 +583,8 @@ for (var attr in meta) {
 <li class="mobile-nav__item border-bottom">
             
               <a href="/"
-                class="mobile-nav__link mobile-nav__link--active"
-                 aria-current="page"
+                class="mobile-nav__link"
+                
               >
                 <span class="mobile-nav__label">Home</span>
               </a>
@@ -634,8 +605,8 @@ for (var attr in meta) {
 <li class="mobile-nav__item">
             
               <a href="/pages/contattaci"
-                class="mobile-nav__link"
-                
+                class="mobile-nav__link mobile-nav__link--active"
+                 aria-current="page"
               >
                 <span class="mobile-nav__label">Contattaci</span>
               </a>
@@ -670,25 +641,10 @@ for (var attr in meta) {
     "",
     ""
   ],
-  "url": "https:\/\/amandano.com"
+  "url": "https:\/\/amandano.com\/pages\/contattaci"
 }
 </script>
 
-
-  
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "WebSite",
-      "name": "Amandano",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https:\/\/amandano.com\/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      },
-      "url": "https:\/\/amandano.com"
-    }
-  </script>
 
 
 
@@ -697,194 +653,51 @@ for (var attr in meta) {
   <div class="page-container drawer-page-content" id="PageContainer">
 
     <main class="main-content js-focus-hidden" id="MainContent" role="main" tabindex="-1">
-      <!-- BEGIN content_for_index --><div id="shopify-section-hero-1" class="shopify-section index-section index-section--flush"><div data-section-id="hero-1" data-section-type="hero-section"><div class="hero hero--large hero-hero-1 box ratio-container lazyload js"
-         id="Hero-hero-1"
-         data-layout="full_width"
-         data-bg="//cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_300x300.jpg?v=1588349362"
-         data-bgset="//cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_180x.jpg?v=1588349362 180w 270h,
-    //cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_360x.jpg?v=1588349362 360w 540h,
-    //cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_540x.jpg?v=1588349362 540w 810h,
-    //cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_720x.jpg?v=1588349362 720w 1079h,
-    //cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_900x.jpg?v=1588349362 900w 1349h,
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    //cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman.jpg?v=1588349362 1080w 1619h"
-         data-sizes="auto"
-         data-parent-fit="cover"
-         style="background-position: center; background-image: url('//cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_300x300.jpg?v=1588349362);"><div class="hero__inner">
-        <div class="page-width text-center"></div>
+      <div class="page-width">
+  <div class="grid">
+    <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth">
+      <div class="section-header text-center">
+        <h1>Contattaci</h1>
       </div>
-    </div>
-    <noscript>
-      <div class="hero hero--large" style="background-image: url('//cdn.shopify.com/s/files/1/0299/3949/9107/files/happy-woman_2048x.jpg?v=1588349362'); background-position: center center;"></div>
-    </noscript></div>
 
-
-</div><div id="shopify-section-collection" class="shopify-section index-section"><div class="page-width">
-  
-    <div class="section-header text-center">
-      <h2>PRODOTTO ATTUALE</h2>
-    </div>
-  
-
-<ul class="grid grid--uniform grid--view-items">
-    
-      <li class="grid__item grid__item--collection small--one-half medium-up--one-quarter">
-        
-<div class="grid-view-item product-card">
-  <a class="grid-view-item__link grid-view-item__image-container full-width-link" href="/collections/frontpage/products/pantoufles-a-noeud-avec-sandales-a-semelles-epaisses">
-    <span class="visually-hidden">Pantofole Annodate Con Sandali Con Suola Spessa</span>
-  </a>
-
-  
-  
-
-    <style>#ProductCardImage-collection-4563328008291 {
-    max-width: 250.0px;
-    max-height: 250px;
-  }
-
-  #ProductCardImageWrapper-collection-4563328008291 {
-    max-width: 250.0px;
-  }
-</style>
-
-  
-
-  <div class="product-card__image-with-placeholder-wrapper" data-image-with-placeholder-wrapper>
-    <div id="ProductCardImageWrapper-collection-4563328008291" class="grid-view-item__image-wrapper product-card__image-wrapper js">
-      <div style="padding-top:100.0%;">
-        <img id="ProductCardImage-collection-4563328008291"
-              class="grid-view-item__image lazyload"
-              alt=""
-              data-src="//cdn.shopify.com/s/files/1/0299/3949/9107/products/3c89cf9172b76695f0baf67688f2e39e_720x_31a04c52-f126-4fb5-a50e-9c409fbb7517_{width}x.jpg?v=1588350124"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="1.0"
-              data-sizes="auto"
-              data-image>
-      </div>
-    </div>
-    <div class="placeholder-background placeholder-background--animation" data-image-placeholder></div>
-  </div>
-
-  <noscript>
-    
-    <img class="grid-view-item__image" src="//cdn.shopify.com/s/files/1/0299/3949/9107/products/3c89cf9172b76695f0baf67688f2e39e_720x_31a04c52-f126-4fb5-a50e-9c409fbb7517_250x250@2x.jpg?v=1588350124" alt="" style="max-width: 250.0px;">
-  </noscript>
-
-  <div class="h4 grid-view-item__title product-card__title" aria-hidden="true">Pantofole Annodate Con Sandali Con Suola Spessa</div>
-<div class="loox-rating" data-id="4563328008291" data-rating="" data-raters=""></div>
-
-  
-<dl class="price price--listing price--on-sale "
->
-  
-<div class="price__regular">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Prezzo di listino</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--regular">€29,99
-</span>
-    </dd>
-  </div>
-  <div class="price__sale">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Prezzo scontato</span>
-    </dt>
-    <dd>
-      <span class="price-item price-item--sale">€29,99
-</span>
-    </dd>
-    <div class="price__compare">
-      <dt>
-        <span class="visually-hidden visually-hidden--inline">Prezzo di listino</span>
-      </dt>
-      <dd>
-        <s class="price-item price-item--regular">
-          €69,99
-        </s>
-      </dd>
-    </div>
-  </div>
-  <div class="price__unit">
-    <dt>
-      <span class="visually-hidden visually-hidden--inline">Prezzo unitario</span>
-    </dt>
-    <dd class="price-unit-price"><span></span><span aria-hidden="true">/</span><span class="visually-hidden">per&nbsp;</span><span></span></dd>
-  </div>
-  <div class="price__badges price__badges--listing">
-    <span class="price__badge price__badge--sale" aria-hidden="true">
-      <span>In Offerta</span>
-    </span>
-    <span class="price__badge price__badge--sold-out">
-      <span>Esaurito</span>
-    </span>
-  </div>
-</dl>
-
-
-</div>
-
-      </li>
-    
-  </ul>
-
-  
-
-</div>
-
-
-
-
-</div><div id="shopify-section-1588345715353" class="shopify-section index-section index-section--flush"><div class="newsletter-section index-section--newsletter-background">
-  <div class="page-width">
-    <div class="section-header text-center">
       
-        <h2 class="h2">Iscriviti alla newsletter</h2>
-      
-      
-        <div class="rte"><p>Promozioni, nuovi prodotti e buoni affari. Informati direttamente per non farti sfuggire nulla!</p></div>
-      
-    </div><form method="post" action="/contact#Contact_1588345715353" id="Contact_1588345715353" accept-charset="UTF-8" class="contact-form form-single-field" novalidate="novalidate"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
-<input type="hidden" name="contact[tags]" value="newsletter">
-      <div class="input-group ">
-        <input type="email"
-          name="contact[email]"
-          id="Contact_1588345715353-email"
-          class="input-group__field"
-          value=""
-          placeholder="Indirizzo email"
-          aria-label="Indirizzo email"
-          aria-required="true"
-          autocorrect="off"
-          autocapitalize="off"
+
+      <div class="contact-form form-vertical"><form method="post" action="/contact#ContactForm" id="ContactForm" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8" value="✓" />
           
-          >
-        <span class="input-group__btn">
-          <button type="submit" class="btn" name="commit" id="Subscribe">
-            <span>Iscriviti</span>
-          </button>
-        </span>
-      </div></form>
+
+
+
+
+          <div class="grid grid--half-gutters">
+            <div class="grid__item medium-up--one-half">
+              <label for="ContactForm-name">Nome</label>
+              <input type="text" id="ContactForm-name" name="contact[Nome]" value="">
+            </div>
+            <div class="grid__item medium-up--one-half">
+              <label for="ContactForm-email">Email <span aria-hidden="true">*</span></label>
+              <input
+                type="email"
+                id="ContactForm-email"
+                name="contact[email]"
+                autocorrect="off"
+                autocapitalize="off"
+                value=""
+                aria-required="true"></div>
+          </div>
+
+          <label for="ContactForm-phone">Numero di telefono</label>
+          <input type="tel" id="ContactForm-phone" name="contact[Numero di telefono]" pattern="[0-9\-]*" value="">
+
+          <label for="ContactForm-message">Messaggio</label>
+          <textarea rows="10" id="ContactForm-message" name="contact[Messaggio]"></textarea>
+
+          <input type="submit" class="btn" value="Invia">
+
+        </form>
+      </div>
+    </div>
   </div>
 </div>
-
-
-
-
-</div><!-- END content_for_index -->
 
     </main>
 
